@@ -1,0 +1,9 @@
+# Node Modules
+node_modules/
+
+# TypeScript
+index.ts
+tsconfig.json
+
+# .env
+.env
